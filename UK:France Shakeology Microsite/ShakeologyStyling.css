@@ -1,0 +1,158 @@
+<p>
+	<style type="text/css">
+
+	li.panel-a {
+    padding-top: 40px;
+    margin-bottom: 40px;
+}
+
+#assetContainer_1409416368533 > ul > li.active p, #assetContainer_1409416368533 > ul > li:hover p {
+    color: white;transition:0s
+}
+#assetContainer_1409417405294 > ul > li.active p, #assetContainer_1409417405294 > ul > li:hover p {
+    color: white;transition:0s
+}
+#assetContainer_1409417405412 > ul > li.active p, #assetContainer_1409417405412 > ul > li:hover p {
+    color: white;transition:0s
+}
+#assetContainer_1409416574122 > ul > li.active p, #assetContainer_1409416574122 > ul > li:hover p {
+    color: white;transition:0s
+}
+#assetContainer_1409417405532 > ul > li.active p, #assetContainer_1409417405532 > ul > li:hover p {
+    color: white;transition:0s
+}
+.custom-grid.primary > li .product-content h4, .products-slider.primary > li .product-content h4, .so-grid.primary > li .product-content h4 {
+    text-decoration: none;
+    color: #353535;
+    font-size: 18px;
+    font-weight: normal;
+    line-height: 18px;
+    border: none;
+    display: block;
+    height: 40px;
+}
+    .custom-grid.primary > li .product-content .product-description p, .products-slider.primary > li .product-content .product-description, .so-grid.primary > li .product-content .product-description {
+      margin: 0 auto 10px !important;
+      color: #8f8f8f !important;
+      font-weight: 400 !important;
+      font-size: 11px !important; }
+
+#assetContainer_1409416401116 > ul > li.active p, #assetContainer_1409416401116 > ul > li:hover p {
+    color: white;transition:0s
+}
+#assetContainer_1409417896874 > ul > li.active p, #assetContainer_1409417896874 > ul > li:hover p {
+    color: white;transition:0s
+}
+#assetContainer_1409417896991 > ul > li.active p, #assetContainer_1409417896991 > ul > li:hover p {
+    color: white;transition:0s
+}
+
+#assetContainer_1409416829865 > ul > li.active p, #assetContainer_1409416829865 > ul > li:hover p {
+    color: white;transition:0s
+}
+#assetContainer_1409417897119 > ul > li.active p, #assetContainer_1409417897119 > ul > li:hover p {
+    color: white;transition:0s
+}
+
+
+.dynamic-tiles-container.vertical > ul {
+    vertical-align: top;
+    float: left;
+    margin-bottom: 35px;
+}
+.button.superfood-hero {
+
+  background: none;
+  background-color: #08881b !important;
+  border: 1px solid #08881b !important;
+  color: #FFFFFF !important;
+  box-shadow: none; }
+  .button.superfood-hero[disabled] {
+    color: #636363; }
+  .button.superfood-hero:hover, .button.superfood-hero:active, .button.superfood-hero:focus {
+    background-color: transparent !important;
+    color: #08881b !important; }
+    .button.superfood-hero:hover[disabled], .button.superfood-hero:active[disabled], .button.superfood-hero:focus[disabled] {
+      color: #636363; }
+
+.button.sampler-hero {
+
+  background: none;
+  background-color: transparent !important;
+  border: 1px solid #08881b !important;
+  color: #08881b !important;
+  box-shadow: none; }
+  .button.sampler-hero[disabled] {
+    color: #636363; }
+  .button.sampler-hero:hover, .button.sampler-hero:active, .button.sampler-hero:focus {
+    background-color: #08881b !important;
+    color: #FFFFFF !important; }
+    .button.sampler-hero:hover[disabled], .button.sampler-hero:active[disabled], .button.sampler-hero:focus[disabled] {
+      color: #636363; }
+
+ @media only screen and (min-width: 46.063em) {
+.content-grid .content-group .container-group-map {
+       height: 380px;
+       display: block;
+       background-image: url('//res.cloudinary.com/teambeachbody/image/upload/v1561388536/Teambeachbody/shared_assets/Shakeology/Ingredients/Whats-Inside-Map/map-960-380-en-us-052319.jpg');
+       background-position: top center;
+       background-repeat: no-repeat;
+       background-size: 100%;
+}
+.content-grid .content-group .container-group-map img {display: none;
+}
+}
+
+div#asset_1409416505414 .container-group-map {
+    display: none;}
+
+div#asset_1409416328192 .container-group-map {
+    display: none;}
+
+div#asset_1409416328191	.container-group-map {
+    display: none;}
+
+div#asset_1409416502330	.container-group-map {
+    display: none;}
+
+div#asset_1409417565576	.container-group-map {
+    display: none;}
+
+div#asset_1409417358692 .container-group-map {
+    display: none;}
+
+div#asset_1409417565467 .container-group-map {
+    display: none;}
+
+div#asset_1409481122290 .container-group-map {
+    display: none;}
+
+div#asset_1409481145965 .container-group-map {
+    display: none;}
+
+ @media only screen and (min-width: 46.063em) {
+.container-map-content {
+       width: 84%;}}
+
+@media only screen and (min-width: 46.063em) {
+.content-grid .content-group .container-group-map > .columns.map-content h3 {
+       white-space: nowrap} }
+
+.content-grid .content-group .container-group-map > .columns.map-pins > i.active {
+    opacity: 1.0 !important;
+    font-size: 22px !important;
+    color: #ffffff !important;
+}
+.content-grid .content-group .container-group-map > .columns.map-pins > i {
+    position: absolute;
+    opacity: .75 !important;
+    font-size: 18px !important;
+    color: #ffffff !important;
+}
+
+.content-grid .content-group .container-group-map > .columns.map-pins > i:hover {
+    opacity: 1.0 !important;
+    font-size: 20px !important;
+    color: #ffffff !important;
+}	</style>
+</p>

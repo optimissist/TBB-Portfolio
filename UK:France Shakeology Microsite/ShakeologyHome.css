@@ -1,0 +1,28 @@
+<style type="text/css">
+.fleft {
+  float: left;
+}
+
+.fright {
+  float: right;
+}
+.clear{
+  clear: both;
+}
+
+.wayscopy {
+  width:570px;
+}
+
+.waysimg {
+  width: 375px;
+  height: auto;
+}
+
+@media all and (max-width: 500px) {
+.wayscopy {
+  width:330px;
+  padding-left:30px;
+}
+}
+</style>
